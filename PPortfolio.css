@@ -1,0 +1,61 @@
+body{
+    background:linear-gradient(135deg,rgb(194, 49, 49),rgb(244, 199, 117),rgb(239, 122, 239),rgb(0, 245, 163) );
+    line-height:1.8;
+    color:rgb(39, 38, 38);
+}
+
+
+
+
+
+.heading{
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-bottom: 2px;
+    color:gold;
+    background-color:rgb(7, 7, 8);
+    padding:30px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.Intro{
+    font-size: 25px;
+}
+nav{
+    background-color: black;
+    padding:2px;
+    text-align:center;
+    font-size: larger;
+}
+nav a{
+    color:gold;
+     text-decoration: none;
+     margin:32px;
+     font-size: 21px;
+}
+nav hover{
+    color:whitesmoke;
+}
+.name{
+    color:rgb(5, 4, 5);
+    font-size :28px; ;
+}
+span{
+    font-size: 60px;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+.about{
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 3px;
+    text-align: left;
+    margin-top: 2px;
+
+}
+a{
+    text-align: center;
+}
+
+
